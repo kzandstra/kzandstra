@@ -1,4 +1,4 @@
-| photo to add | # Karen M. Zandstra|
+| photo to add | Karen M. Zandstra|
 | -------------------- | ------------------ |
 | About me  | Canadian/French nationalities and fully bilingual (English, French) |
 | Education | Data Analyst Lead Certification to be acquired in summer 2024 from Jedha Bootcamp |
