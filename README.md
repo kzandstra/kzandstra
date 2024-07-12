@@ -15,14 +15,14 @@
 ### Presentation
 During my previous work experience, in administrative roles, I had the opportunity to apply my analytical skills to optimize operational processes and enhance decision-making strategies. Working closely with cross-functional teams, I collaborated on projects and helped implement solutions.
 
-Currently enrolled in the Data Analyst Lead program at Jedha Bootcamp, I have honed my skills in data manipulation, statistical analysis, data visualization, and machine learning techniques. The rigorous curriculum, coupled with hands-on projects and real-world case studies, has equipped me with a solid foundation in interpreting complex data sets to derive actionable insights.
+Following the Data Analyst Lead program at Jedha Bootcamp, I have honed my skills in data manipulation, statistical analysis, data visualization, and machine learning techniques. The rigorous curriculum, coupled with hands-on projects and real-world case studies, has equipped me with a solid foundation in interpreting complex data sets to derive actionable insights.
 
 ## Skills
 - Python
 - SQL
 - MS Office
 - Cognos
-- Salesforce (utilisateur)
+- Salesforce (user)
 - Tableau
 - Power BI
 - Google Cloud Platform
@@ -36,7 +36,7 @@ Currently enrolled in the Data Analyst Lead program at Jedha Bootcamp, I have ho
 
 
 ### Certification projects
-- Tinder : speed dating
+- HR : attrition prediction features importance
 - Netflix : memberships analytics
 
 ### Personal projects
