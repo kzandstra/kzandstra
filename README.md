@@ -5,7 +5,13 @@
 
 ### Included in this repository :
 - Demo Day projects
+  
 - Certification projects
+  
+  - [Netflix on Power BI](https://github.com/kzandstra/Data_project_B2)
+    
+  - [Human resources with Python](https://github.com/kzandstra/Data_project_B6)
+    
 - Personal projects
 
 ### Featuring
