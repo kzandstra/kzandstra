@@ -1,16 +1,14 @@
 | photo to add | Karen M. Zandstra|
 | -------------------- | ------------------ |
 | About me  | Canadian/French nationalities and fully bilingual (English, French) |
-| Education | Data Analyst Lead Certification to be acquired in summer 2024 from Jedha Bootcamp |
+| Education | Studied "Data Analyst Lead" at Jedha Bootcamp |
 
 ### Included in this repository :
 - Demo Day projects
   
-- Certification projects
+- Certification project
   
   - [Netflix on Power BI](https://github.com/kzandstra/Data_project_B2)
-    
-  - [Human resources with Python](https://github.com/kzandstra/Data_project_B6)
     
 - Personal projects
 
@@ -24,21 +22,16 @@ During my previous work experience, in administrative roles, I had the opportuni
 Following the Data Analyst Lead program at Jedha Bootcamp, I have honed my skills in data manipulation, statistical analysis, data visualization, and machine learning techniques. The rigorous curriculum, coupled with hands-on projects and real-world case studies, has equipped me with a solid foundation in interpreting complex data sets to derive actionable insights.
 
 ## Skills
-- Python
-- SQL
-- MS Office
-- Cognos
-- Salesforce (user)
-- Tableau
-- Power BI
-- Google Cloud Platform
-- Hubspot
-- Azure / Azure Studio
-- Snowflake
-- Dataiku
-- Make
-- Looker
-- Notion
+- Microsoft Office | Visual Planning | Symix | Adobe InDesign | Loom
+
+- Cognos | Tableau | Power BI | SQL | 
+Snowflake | Dataiku | Looker | Metabase 
+
+- Python | GitHub | Docker | dbt | Zapier | Make | Tally
+
+- Salesforce | Hubspot | Airtable
+
+- AWS | Google Cloud Platform | Azure Studio
 
 
 ### Certification projects
