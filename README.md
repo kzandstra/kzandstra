@@ -1,45 +1,33 @@
 | photo to add | Karen M. Zandstra|
 | -------------------- | ------------------ |
-| About me  | Canadian/French nationalities and fully bilingual (English, French) |
-| Education | Studied "Data Analyst Lead" at Jedha Bootcamp |
+| About me  | Canadian/French and fully bilingual (English, French) |
+| Education | Consulting IA at Alyra, ecole de la Blockchain (2025-25), Développeur d'applications at La Dinguerie CFA (2025-26), "Data Analyst Lead" at Jedha Bootcamp Paris (2024) |
 
 ### Included in this repository :
-- Demo Day projects
-  
-- Certification project
-  
+- Class projects
+  - [Python Project for Bakery Sales](https://github.com/kzandstra/Data_project_B6)
   - [Netflix on Power BI](https://github.com/kzandstra/Data_project_B2)
-    
-- Personal projects
-
-### Featuring
-
-- My Demo Day project from Data Analysis Fullstack : python notebook datasets and powerpoint presentation
 
 ### Presentation
 During my previous work experience, in administrative roles, I had the opportunity to apply my analytical skills to optimize operational processes and enhance decision-making strategies. Working closely with cross-functional teams, I collaborated on projects and helped implement solutions.
 
-Following the Data Analyst Lead program at Jedha Bootcamp, I have honed my skills in data manipulation, statistical analysis, data visualization, and machine learning techniques. The rigorous curriculum, coupled with hands-on projects and real-world case studies, has equipped me with a solid foundation in interpreting complex data sets to derive actionable insights.
+Following the Data Analyst Lead program at Jedha Bootcamp, I have honed my skills in data manipulation and visualization. I have now moved on to studies on Project Management and Applications Development.
 
 ## Skills
-- Microsoft Office | Visual Planning | Symix | Adobe InDesign | Loom
+- Microsoft Office | Adobe InDesign | Canva | Monday | Notion | Loom
 
-- Cognos | Tableau | Power BI | SQL | 
-Snowflake | Dataiku | Looker | Metabase 
+- Tableau | Power BI | SQL | Supabase
 
-- Python | GitHub | Docker | dbt | Zapier | Make | Tally
-
-- Salesforce | Hubspot | Airtable
-
-- AWS | Google Cloud Platform | Azure Studio
+- Python | R | GitHub | Docker | n8n | Copilot Studio | Power Automate
 
 
-### Certification projects
+### Learning projects
 - HR : attrition prediction features importance
+- Bakery Sales with Python
 - Netflix : memberships analytics
 
 ### Personal projects
-to be added
+Climate Change Indicators
 
 ### Development
-Future projects that I want to take on ...
+Applications
